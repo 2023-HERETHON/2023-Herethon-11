@@ -30,11 +30,11 @@
   </tr>
   <tr width="100%">
   <td align="center">기획·<br>디자인</td>
-  <td align="center">프론트<br>엔드</td>
-  <td align="center">프론트<br>엔드</td>
-  <td align="center">프론트<br>엔드</td>
-  <td align="center">백엔드</td>
-  <td align="center">백엔드</td>
+  <td align="center">프론트</td>
+  <td align="center">프론트</td>
+  <td align="center">프론트</td>
+  <td align="center">백</td>
+  <td align="center">백</td>
   </tr>
   <tr width="100%">
   <td align="center">이화여대</a></td>
