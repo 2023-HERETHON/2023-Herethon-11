@@ -37,11 +37,11 @@
   <td align="center">백</td>
   </tr>
   <tr width="100%">
-  <td align="center">이화여대</a></td>
-  <td align="center">성신여대</a></td>
-  <td align="center">서울여대</a></td>
-  <td align="center">덕성여대</a></td>
-  <td align="center">동덕여대</a></td>
-  <td align="center">한양여대</a></td>
+  <td align="center">이화<br>여대</a></td>
+  <td align="center">성신<br>여대</a></td>
+  <td align="center">서울<br>여대</a></td>
+  <td align="center">덕성<br>여대</a></td>
+  <td align="center">동덕<br>여대</a></td>
+  <td align="center">한양<br>여대</a></td>
   </tr>
   </table>
