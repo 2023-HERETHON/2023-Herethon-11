@@ -29,14 +29,14 @@
   <td align="center">홍효정</a></td>
   </tr>
   <tr width="100%">
-  <td align="center">기획·디자인</td>
+  <td align="center">기획·<br>디자인</td>
   <td align="center">프론트엔드</td>
   <td align="center">프론트엔드</td>
   <td align="center">프론트엔드</td>
   <td align="center">백엔드</td>
   <td align="center">백엔드</td>
   </tr>
-  <tr width="90%">
+  <tr width="100%">
   <td align="center">이화여대</a></td>
   <td align="center">성신여대</a></td>
   <td align="center">서울여대</a></td>
