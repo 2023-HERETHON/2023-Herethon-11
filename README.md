@@ -36,7 +36,7 @@
   <td align="center">백엔드</td>
   <td align="center">백엔드</td>
   </tr>
-  <tr width="100%">
+  <tr width="90%">
   <td align="center">이화여대</a></td>
   <td align="center">성신여대</a></td>
   <td align="center">서울여대</a></td>
